@@ -1,0 +1,5 @@
+C:\Users\maxib\source\repos\Test 27 February\Zadacha 5\obj\Debug\netcoreapp2.1\Zadacha 5.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\Test 27 February\Zadacha 5\obj\Debug\netcoreapp2.1\Zadacha 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\Test 27 February\Zadacha 5\obj\Debug\netcoreapp2.1\Zadacha 5.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\Test 27 February\Zadacha 5\obj\Debug\netcoreapp2.1\Zadacha 5.AssemblyInfo.cs
+C:\Users\maxib\source\repos\Test 27 February\Zadacha 5\obj\Debug\netcoreapp2.1\Zadacha 5.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "O14rJCnJl5F+1edInSpy67ALIhzQsDtc1WL0aFI9AFgQqAuiOynU3RxBspMbZq+8Rc6pXV27+iq+AaLc+dRakg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxib\\source\\repos\\Test 27 February\\Zadacha 5\\Zadacha 5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxib\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\maxib\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\maxib\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\maxib\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\maxib\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\maxib\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\maxib\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
